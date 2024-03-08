@@ -2,7 +2,7 @@
 - 👀 I’m interested in Mobile Applications
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Development
-- 📫 How to reach me ...xsmoon737@gmail.com
+- 📫 How to reach me "xsmoon737@gmail.com"
 - 😄 Pronouns: ...PRO Q
 - ⚡ Fun fact: ...learn everything from zero to Hero
 
